@@ -1,6 +1,6 @@
 Hey! My name is Kaegen. Welcome to my Github :)
 
-Hopefully, I'll become a successful developer one day, but until then, I'll just try my best and keep learning.💪🏽😁
+With Formula 1 experience, I'm well versed in .NET, golang, C# and Flutter mobile development.
 
 <!---
 Kaegenkugan/Kaegenkugan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
